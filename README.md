@@ -1,2 +1,5 @@
-# OMU
-Resolução do item h) da segunda questão da prova da primeira fase da Olimpíada de Matemática da Universidade de Campinas.
+# Olimpíada de Matemática da Unicamp 2023
+# 1ª Fase - Nível Beta
+# EQUIPE: Garotos de Programa
+
+Resolução do item h) da segunda questão da OMU 2023.
