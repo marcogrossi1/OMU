@@ -7,7 +7,7 @@ int main(){
     printf("Insira a quantidade de dias da semana desse planeta: "); 
     scanf("%d", &m); //Assume-se que 1 <= m <= 360
 
-    if(ano_equalizador % m == 0) //Verificando se m|360.
+    if(360 % m == 0) //Verificando se m|360.
         printf("\nTodo ano é equalizador!\n");
 
     else{
